@@ -1,0 +1,21 @@
+Which foods lack the 3 amino acids?
+
+
+
+Short answer: no normal whole foods “lack” specific amino acids entirely. Almost every natural food with any protein has all amino acids in some amount. If your top 3 (from the codon results) are the usual suspects for SARS-CoV-2 in a simple frame-0 count—phenylalanine (F), leucine (L), and serine (S)—then the way to “avoid” them is to choose foods that are very low in protein overall.
+
+Here are practical picks that are naturally very low in phenylalanine, leucine, and serine (because they’re low in total protein):
+
+Fruits: apples, pears, grapes, peaches, watermelon, berries, citrus.
+
+Non-starchy vegetables: lettuce, cucumber, zucchini, bell pepper, tomato, celery.
+
+Starchy vegetables with modest protein: potatoes, carrots, beets (still much lower than grains/legumes/meat).
+
+Refined carbs & sugars: white sugar, honey, jam, plain rice cakes (little to no protein).
+
+Fats & oils: olive oil, sunflower oil, butter (essentially zero protein → essentially zero F/L/S).
+
+Starches like tapioca/arrowroot: mostly carbohydrate, minimal protein.
+
+If you’re trying to minimize those three amino acids in meals, prioritize plates built from the lists above and limit high-protein foods (meat, fish, eggs, dairy, legumes, tofu/tempeh, nuts/seeds, whole grains).
